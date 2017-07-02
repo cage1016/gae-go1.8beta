@@ -1,0 +1,6 @@
+package: github.com/cage1016/gae-go1.8beta
+import:
+- package: github.com/labstack/echo
+  version: ~3.2.1
+  subpackages:
+  - middleware
